@@ -6,7 +6,7 @@ Win10数字化激活文件
 
 如果喜欢，可以随意捐赠。
 支付宝捐赠码：
-[](https://github.com/Mintimate/Win10/blob/master/alipay.jpg)
+![](https://github.com/Mintimate/Win10/blob/master/alipay.jpg)
 
 Mintimate
 2019.3
