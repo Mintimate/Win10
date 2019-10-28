@@ -11,3 +11,5 @@ Win10数字化激活文件
 
 Mintimate
 2019.3
+
+![](https://github.com/Mintimate/Win10/blob/master/E142834B176A2AB9B581496830B31DDA.jpg?raw=true)
