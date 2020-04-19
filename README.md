@@ -4,6 +4,11 @@ Win10 digital activation program.<br/>
 利用开源代码编译<br/>
 Ues open source.<br/>
 
+Download：
+1.[Ctfile Download](https://72k.us/dir/26158157-38543006-adf692)
+2.[Release Paper](https://github.com/Mintimate/Win10/releases)
+
+
 原理是：先安装密钥，利用微软win10更新通道，最后升级系统达到数字化激活的目的。<br/>
 Principle is:<br/>
 First install key to Windows, and then use Microsoft Win10 update channel, and finally upgrade the system to achieve the purpose of digital activation.<br/>
